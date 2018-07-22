@@ -70,7 +70,7 @@
          id="flowPara2991"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#105aaf;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold"><flowSpan
    style="font-weight:bold;letter-spacing:-1px;fill:#84dfd0;fill-opacity:1;fill-rule:nonzero;stroke:#105aaf;stroke-width:3;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-   id="flowSpan3854">H</flowSpan>IPPOCCA<flowSpan
+   id="flowSpan3854">H</flowSpan>IPPOCA<flowSpan
    style="font-weight:bold;letter-spacing:-1px;fill:#84dfd0;fill-opacity:1;stroke:#105aaf;stroke-width:3;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
    id="flowSpan3862">M</flowSpan>PUS</flowPara></flowRoot>    <text
        xml:space="preserve"
@@ -117,7 +117,7 @@
        xml:space="preserve"
        id="flowRoot3888"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#105aaf;stroke-width:4.51539373;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:Berlin Sans FB Demi;-inkscape-font-specification:Berlin Sans FB Demi"
-       transform="matrix(0.43332507,0,0,0.45274633,196.60621,-545.15792)"
+       transform="matrix(0.43332507,0,0,0.45274633,169.89818,-545.15792)"
        inkscape:export-filename="C:\Users\daniel\hippo-conf\images\logo.png"
        inkscape:export-xdpi="151.42999"
        inkscape:export-ydpi="151.42999"><flowRegion
@@ -150,7 +150,7 @@
            ry="6.5659914" /></flowRegion><flowPara
          id="flowPara3902"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#84dfd0;fill-opacity:1;stroke:#84dfd0;stroke-width:1.35461807;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:DengXian;-inkscape-font-specification:DengXian" /></flowRoot>    <flowRoot
-       transform="matrix(0.38166117,0,0,0.39894947,196.69648,-584.11364)"
+       transform="matrix(0.38166117,0,0,0.39894947,169.98845,-584.11364)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#105aaf;stroke-width:1.53763521;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:DengXian;-inkscape-font-specification:DengXian"
        id="flowRoot3916"
        xml:space="preserve"
@@ -207,7 +207,7 @@
        xml:space="preserve"
        id="flowRoot3952"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#105aaf;stroke-width:3.64883375;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:DengXian;-inkscape-font-specification:DengXian"
-       transform="matrix(0.39685495,0,0,0.42583615,310.24752,-604.8611)"
+       transform="matrix(0.39685495,0,0,0.42583615,284.49335,-604.8611)"
        inkscape:export-filename="C:\Users\daniel\hippo-conf\images\logo.png"
        inkscape:export-xdpi="151.42999"
        inkscape:export-ydpi="151.42999"><flowRegion
@@ -223,5 +223,18 @@
          id="flowPara3958"
          style="font-size:92.25811005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;letter-spacing:2.56272531px;text-anchor:start;fill:#84dfd0;fill-opacity:1;stroke:#84dfd0;stroke-width:3.64883375;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:sans;-inkscape-font-specification:sans">Conference<flowSpan
    style="letter-spacing:-2.56272531px;stroke-width:3.64883375"
-   id="flowSpan3960" /></flowPara></flowRoot>  </g>
+   id="flowSpan3960" /></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4326"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\logo.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><flowRegion
+         id="flowRegion4328"><rect
+           id="rect4330"
+           width="61.523861"
+           height="54.846851"
+           x="201.74103"
+           y="-1004.1563" /></flowRegion><flowPara
+         id="flowPara4332"></flowPara></flowRoot>  </g>
 </svg>
