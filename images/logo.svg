@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="hippocampus.svg">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.0967475"
      inkscape:cx="226.47428"
-     inkscape:cy="2059.5202"
+     inkscape:cy="1987.5442"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,9 @@
        xml:space="preserve"
        id="flowRoot2985"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Berlin Sans FB Demi;-inkscape-font-specification:Berlin Sans FB Demi;stroke-width:3;stroke-miterlimit:0;stroke-dasharray:none"
-       transform="translate(-32.829958,-14.647212)"><flowRegion
+       transform="translate(-32.829958,-14.647212)"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><flowRegion
          id="flowRegion2987"><rect
            id="rect2989"
            width="283.34778"
@@ -77,7 +79,10 @@
        x="293.95438"
        y="-951.78046"
        id="text3765"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\flowRoot2985.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><tspan
          sodipodi:role="line"
          id="tspan3767"
          x="293.95438"
@@ -88,7 +93,10 @@
        x="201.02036"
        y="-1018.9556"
        id="text3775"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\flowRoot2985.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><tspan
          sodipodi:role="line"
          id="tspan3777"
          x="201.02036"
@@ -96,18 +104,24 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3805"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center"><flowRegion
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\flowRoot2985.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><flowRegion
          id="flowRegion3807"><rect
            id="rect3809"
            width="98.489876"
            height="77.276672"
            x="109.60155"
            y="-895.21191" /></flowRegion><flowPara
-         id="flowPara3811"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3811" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3888"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#105aaf;stroke-width:4.51539373;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:Berlin Sans FB Demi;-inkscape-font-specification:Berlin Sans FB Demi"
-       transform="matrix(0.43332507,0,0,0.45274633,145.09786,-545.15792)"><flowRegion
+       transform="matrix(0.43332507,0,0,0.45274633,145.09786,-545.15792)"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\flowRoot2985.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><flowRegion
          style="stroke-width:4.51539373"
          id="flowRegion3890"><rect
            id="rect3892"
@@ -122,7 +136,10 @@
        xml:space="preserve"
        id="flowRoot3896"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#84dfd0;stroke-width:1.35461807;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:DengXian;-inkscape-font-specification:DengXian"
-       transform="matrix(0.43332507,0,0,0.45274633,-9.2588121,-528.5098)"><flowRegion
+       transform="matrix(0.43332507,0,0,0.45274633,-9.2588121,-528.5098)"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\flowRoot2985.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><flowRegion
          style="stroke-width:4.51539373"
          id="flowRegion3898"><rect
            id="rect3900"
@@ -137,7 +154,10 @@
        transform="matrix(0.38166117,0,0,0.39894947,145.18813,-584.11364)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#105aaf;stroke-width:1.53763521;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:DengXian;-inkscape-font-specification:DengXian"
        id="flowRoot3916"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\flowRoot2985.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><flowRegion
          id="flowRegion3918"
          style="stroke-width:5.12545061"><rect
            ry="6.5659914"
@@ -152,7 +172,10 @@
        transform="matrix(0.43332507,0,0,0.45274633,-9.2588165,-545.15756)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#105aaf;stroke-width:4.51539373;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:Berlin Sans FB Demi;-inkscape-font-specification:Berlin Sans FB Demi"
        id="flowRoot3928"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\flowRoot2985.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><flowRegion
          id="flowRegion3930"
          style="stroke-width:4.51539373"><rect
            ry="6.5659914"
@@ -167,7 +190,10 @@
        xml:space="preserve"
        id="flowRoot3936"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#105aaf;stroke-width:1.53763521;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:DengXian;-inkscape-font-specification:DengXian"
-       transform="matrix(0.38166117,0,0,0.39894947,-7.329024,-584.11364)"><flowRegion
+       transform="matrix(0.38166117,0,0,0.39894947,-7.329024,-584.11364)"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\flowRoot2985.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><flowRegion
          style="stroke-width:5.12545061"
          id="flowRegion3938"><rect
            id="rect3940"
@@ -182,7 +208,10 @@
        xml:space="preserve"
        id="flowRoot3952"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#105aaf;stroke-width:3.64883375;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:DengXian;-inkscape-font-specification:DengXian"
-       transform="matrix(0.39685495,0,0,0.42583615,252.06216,-604.8611)"><flowRegion
+       transform="matrix(0.39685495,0,0,0.42583615,252.06216,-604.8611)"
+       inkscape:export-filename="C:\Users\daniel\hippo-conf\images\flowRoot2985.png"
+       inkscape:export-xdpi="151.42999"
+       inkscape:export-ydpi="151.42999"><flowRegion
          style="stroke-width:4.86511183"
          id="flowRegion3954"><rect
            id="rect3956"
@@ -193,7 +222,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#b4c171;fill-opacity:1;stroke:#105aaf;stroke-width:3.64883375;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:DengXian;-inkscape-font-specification:DengXian"
            ry="6.5659914" /></flowRegion><flowPara
          id="flowPara3958"
-         style="font-size:92.25811005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;letter-spacing:2.56272531px;text-anchor:start;fill:#84dfd0;fill-opacity:1;stroke:#84dfd0;stroke-width:3.64883375;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:sans;-inkscape-font-specification:sans"><flowSpan
+         style="font-size:92.25811005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;letter-spacing:2.56272531px;text-anchor:start;fill:#84dfd0;fill-opacity:1;stroke:#84dfd0;stroke-width:3.64883375;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;font-family:sans;-inkscape-font-specification:sans">Conference<flowSpan
    style="letter-spacing:-2.56272531px;stroke-width:3.64883375"
-   id="flowSpan3960">Symposiu</flowSpan>m</flowPara></flowRoot>  </g>
+   id="flowSpan3960" /></flowPara></flowRoot>  </g>
 </svg>
